@@ -16,6 +16,8 @@ Install dependencies and start the Vite development server:
 ```bash
 npm install
 npm run dev
+
+npm run dev -- --host 0.0.0.0
 ```
 
 Then open <http://localhost:5173>.
